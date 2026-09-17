@@ -1,0 +1,93 @@
+    1  pwd
+    2  ls
+    3  ls
+    4  cd desktop
+    5  pwed
+    6  cd dldud
+    7  cd pwd
+    8  pwd
+    9  pwd
+   10  ls
+   11  cd desktop
+   12  pwd
+   13  ls
+   14  pwd
+   15  cd ../
+   16  pwd
+   17  cd ./
+   18  pwd
+   19  ./
+   20  cd desktop
+   21  pwd
+   22  ls -l
+   23  ls -l
+   24  ls -lh
+   25  ls /WINL
+   26  ls \WINL
+   27  cd ../
+   28  pwd
+   29  cd desktop
+   30  pwd
+   31  clear
+   32  pwd
+   33  ls
+   34  cd WINL
+   35  ls
+   36  cp -r ../WINL ./new_folder
+   37  cp -r ..\WINL .\new
+   38  cd ../
+   39  ls /WINL
+   40  cd WINL
+   41  ls
+   42  ls
+   43  cp -r ../WINL ./new
+   44  cp WINL1.docx ./newfolder
+   45  ls
+   46  cd newfolder
+   47  cp WINL1.docx copy
+   48  ls
+   49  cp WINL1.docx copy.docx
+   50  ls
+   51  cp WINL_2_초안.docx copy.docx
+   52  cp copy.docx ./newfolder
+   53  ls
+   54  cd newfolder
+   55  ls
+   56  cp copy.docx .\new
+   57  ls
+   58  cp -R WINL new
+   59  cp -r WINL new
+   60  cp -r ../WINL ./new
+   61  ls
+   62  cp copy.docx ./new
+   63  ls
+   64  cp -r copy.docx ./new
+   65  clear
+   66  ls
+   67  mv copy.docx a.docx
+   68  la
+   69  ls
+   70  mv a.docx ../
+   71  cd ../
+   72  ls
+   73  mv a.docx ./WINL
+   74  cd WINL
+   75  ls
+   76  mkdir newdir
+   77  ls
+   78  ls
+   79  cd /WINL
+   80  cd desktop
+   81  cd /WINL
+   82  cd WINL
+   83  ls -l
+   84  clea
+   85  clear
+   86  nano myscript.sh
+   87  sh myscript.sh
+   88  nano myscript.sh
+   89  sh myscript.sh
+   90  nano script.sh
+   91  sh script.sh
+   92  history
+   93  history > history_command.txt
